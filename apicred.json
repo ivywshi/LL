@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "liquor-licensing-423923",
+  "private_key_id": "1d9e136d4f8274c520707b95fb9f553daaf77625",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCr8LcoLkURNMbW\nAnKX5S/x9DQTwQcab49wIXPQ4rZ6bYvcZj4lJQ6bjlpU1Wzj6RaBXoToadIx4lqB\ne44hWJkfQWaBm5G2JoM4EEBH8YH05Lm6Y9imGvs4XL8X8X6GqBJa+LEKJUJ3Kfs5\nDlOj16SnNKf1JD9yAZCHq5H9CCOaE1zR2E/7pxjwimKcUL/H1Jc0EET6AuhjoLwP\nc+vplqfg62LVo6Z6qRFqk+i9pb4VJXA0UaXVC+ImsvTo1o76d4pkV468WUKIRwEL\ntVCZe+CFxrudfwdhM3laZnkSF/k2kf+yE+UzouQT1PtGXgJKap4qR7HVWCWjPUVB\nrGQGsO4nAgMBAAECggEADsIPybnrx7kZKZyQK9iwlgeSwldN8S2+L0iC+ynA5YVD\n/Sjxdv+IeQwHVamNoFcmmitIvfVg5OzVPX2J141JQO68ihQv6TIpDsWmUgaF7Xhs\nakLQgU4zkStOY6ztlUh71HJTXKTFR032xRDyJBzWtY6TFAfs28lyl5KMaoTDH+60\ntA5Xr0KKsiIfXnz1OW98IkF6EGQTN1KV8hw4eOmw2TTjdM4ORizQJRYDx1lAGuyo\nNhIHP19pxYfaxAkEcLTWgpzPV5nFUD/c/qALZnWeNeIamvsN3+SQPj928WiIh34h\nYwhRQFx/kRZIBIbeyCi2i7qSUCLGNIixCdhC5clToQKBgQDW7CW2yBJgoHcN4wAl\nPRyuFxp/ygLFcUzRhOEO0XO1gnbRlMaIZ8UCJn0aOJlQSL/g9sYWrv7kddyx5pTP\nfwWSRb5rIFdF640eWaWVdJ788Yy5NN4XojhpneJdDGc/PnaIqw0ZH9BmRW3S17L0\nxM7dh/zL5NKypB0oGGCSZss7yQKBgQDMzYMGiIvEBgWJc2ESr+5cC6XSpWigQKZJ\nBhQxfXg5ZU/bSLIEMhjorbND8eo/ss3MIqpayQ3LYxsFr2vU66+t6NGXVJklWfSl\nN6FJlX99wF/sg8k4ECGqYIuqGXvGQWuc1qLYbNT9Fn81oTKqiZTk24waMEtYagOE\nWjky8J7ybwKBgEtpyUH9qhUluSCySlbGvs2HZdD5PUeyndXW3nGopQVHphGcNp2e\na855WuRcf89f95QkgxVqih34DVyPICA+3eGZf1tvma/7GyVPJ37t0OvIhixmlJeO\nYGUO9WLY+1GBxW3nN01dkG6SZhrZfP3OIRgyo02YGSZ9140+IIS+dQmhAoGAG5GW\nj6yV099To3sKmC9ikLVorwBhIyFQwQe2dCsFogRHSadxfysXO0sWlJDeDZEOLuqD\nsBDccIJ4wr0ocNMBJRHwFMTokKSZUBw68+LR9KWOxBHBZnCVd4/jfRRNGxT3XXdv\nGF8eFKuQmDGI1ngKuPvs0iGqIs6yhoB2rqrBWrUCgYEAiBX8Wkvo4heJ20ef/kE5\nFwQyWD1SWB/qMwf0J+/MyfDjs1czMexfiwTuDIvzpuggh+wMJhwY/TknCZhv902N\n9HfBtHQssunzbm1gkqDXluOuLP9g5qFvMcJRMwo2IsTkFHMRKsIBRch5RRWhnYln\nB/K7iF+cdYxObjocySFqP40=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ivyshi@liquor-licensing-423923.iam.gserviceaccount.com",
+  "client_id": "116222031559744631588",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ivyshi%40liquor-licensing-423923.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
